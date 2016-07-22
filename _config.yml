@@ -1,0 +1,14 @@
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9132229806188873
+  lightness: 0.6625933269020811
+  rhythmicContrast: 0.5032220497000375
+  saturation: 0.06366048730169838
+layout_spectrum: 0.43854661202049006
+name: chillbnb
+typography_spectrum: 0.8125271989123539
